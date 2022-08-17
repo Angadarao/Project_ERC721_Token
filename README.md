@@ -1,6 +1,6 @@
 1) Downloaded the starter code from the Git Hub @ https://github.com/udacity/nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code
 
-2) # Check Node version
+2) /# Check Node version
 node -v
 
 3)# Check NPM version
